@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SquareView">
+        <attr name="squareLength" format="dimension" />
+        <attr name="squareColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="RectangleView">
+        <attr name="rectWidth" format="dimension" />
+        <attr name="rectHeight" format="dimension" />
+        <attr name="rectColor" format="color" />
+    </declare-styleable>
+</resources>
